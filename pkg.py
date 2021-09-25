@@ -82,7 +82,7 @@ os.system ("apt install hydra -y")
 
 
 print ("""
-subscribe ONE×ESPORTS """)
+subscribe Crazy Hackers """)
 
 os.system ("apt install ruby -y")
 os.system ("apt install macchanger -y")
