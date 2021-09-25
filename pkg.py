@@ -101,9 +101,9 @@ def slowprint(s):
         sys.stdout.flush()
         time.sleep(8. / 100)
 print("\033[95m+-------------------------------------------------+")
-slowprint('''\033[95m|             Welcome To ONE×ALPHA's WORLD OF HACKING           |
-|           Subscribe Our YouTube Channel ONE×ESPORTS        |
-| Watch Our video for esports |''')
+slowprint('''\033[95m|             Welcome To CRAZY WORLD OF HACKING           |
+|         Subscribe Our YouTube Channel Crazy Hackers     |
+| Watch Our video for more termux tools & tutorials |''')
 print("+-------------------------------------------------+")
 
 input("\n\nPress the enter key to exit : ")
