@@ -102,8 +102,8 @@ def slowprint(s):
         time.sleep(8. / 100)
 print("\033[95m+-------------------------------------------------+")
 slowprint('''\033[95m|             Welcome To CRAZY WORLD OF HACKING           |
-|         Subscribe Our YouTube Channel Crazy Hackers     |
-| Watch Our video for more termux tools & tutorials |''')
+|        If you have any suggestions then       |
+| WhatsApp me on +916355736986 |''')
 print("+-------------------------------------------------+")
 
 input("\n\nPress the enter key to exit : ")
