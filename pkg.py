@@ -23,8 +23,11 @@ print (''' \033[95m
 +--------------------------------------+
 | This Tool Install All Basic Packages |
 +--------------------------------------+
-| Coded By ONE×ALPHA |
+| Coded By Pragnesh Singh |
 +--------------------------------------+''')
+
+print ("""
+Follow me on instagram :- pragnesh_singh_rajput """)
 
 slowprint(''' \033[93m
 [01] python
@@ -82,7 +85,7 @@ os.system ("apt install hydra -y")
 
 
 print ("""
-subscribe Crazy Hackers """)
+Thanks for using my tool """)
 
 os.system ("apt install ruby -y")
 os.system ("apt install macchanger -y")
