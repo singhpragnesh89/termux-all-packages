@@ -31,6 +31,7 @@ apt install wcalc -y
 apt install openssl -y
 apt install openssh -y
 apt install bmon -y
+apt install coreutils -y
 echo
 echo
 echo " YOUR PACKAGES IS INSTALLED SUCCESSFULLY "
